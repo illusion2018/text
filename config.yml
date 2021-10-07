@@ -75,13 +75,13 @@ users:
         # 学校名称
         schoolName: '宜宾学院'
         # 账号
-        username: ''
+        username: '181102009'
         # 密码
-        password: ''
+        password: '15982305676byqhy'
         # 定位位置信息
-        address: '四川省（自己改）'
+        address: '四川省宜宾市大学路三段5号'
         #sendKey 当sendType为0时代表邮箱，当sendType为1时代表接收消息的QQ号码，当sendType为2时代表接收消息的pushplus token
-        sendKey: ''
+        sendKey: '1471927275@qq.com'
         # 附上经纬度查询地址（请自行选择自己的学校地址，address，lon，lat都要填查询到的）：http://api.map.baidu.com/lbsapi/getpoint/index.html
         # 经纬度信息
         lon: 104.6191824
